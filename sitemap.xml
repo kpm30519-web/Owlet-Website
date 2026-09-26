@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://owlet.keniem.com/</loc>
-  </url>
-  <url>
-    <loc>https://owlet.keniem.com/privacy.html</loc>
-  </url>
+  <url><loc>https://owlet.keniem.com/</loc></url>
+  <url><loc>https://owlet.keniem.com/privacy.html</loc></url>
+  <url><loc>https://owlet.keniem.com/resources/</loc></url>
+  <url><loc>https://owlet.keniem.com/resources/capture-recipes.html</loc></url>
+  <url><loc>https://owlet.keniem.com/resources/review-edit-recipes.html</loc></url>
+  <url><loc>https://owlet.keniem.com/resources/save-to-kitchenowl.html</loc></url>
+  <url><loc>https://owlet.keniem.com/resources/print-import-export.html</loc></url>
 </urlset>
